@@ -1,5 +1,7 @@
 # Push 1 mappings for MidiPipe
 
+> ヽ༼ຈʖ̯ຈ༽ﾉ macOS only, soz
+
 All Push buttons mapped to MidiPipe (WIP) TODO: everything.
 
 From there you can make the AppleScript call whatever other tricks you like.
